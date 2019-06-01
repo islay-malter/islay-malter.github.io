@@ -19,3 +19,10 @@ This is an attempt at setting up a site using GitHub Pages and Jekyll.
 - ~~modify config file for custom attributes~~
 - ~~create first blog post~~
 - ~~create home page with all blogs linked~~
+
+- custom 404 page
+- favicon
+- custom domain
+- `_includes` folder for layouts
+  - Google Analytics
+  - DISQUS commenting
