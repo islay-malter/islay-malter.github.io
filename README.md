@@ -1,8 +1,12 @@
 # Personal Page for Islay Malter
 
-This is an attempt at setting up a personal blog/site using GitHub Pages and
-Jekyll.
-_hourglass spins fervently_
+This is an attempt at setting up a site using GitHub Pages and Jekyll.
+
+{% for post in site.posts %}
+
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: '%B %d, %Y' }}
+
+{% endfor %}
 
 ## Tasks
 
@@ -14,4 +18,4 @@ _hourglass spins fervently_
 - ~~run Jekyll locally~~
 - ~~modify config file for custom attributes~~
 - ~~create first blog post~~
-- create home page with all blogs linked
+- ~~create home page with all blogs linked~~
