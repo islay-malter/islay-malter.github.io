@@ -4,7 +4,7 @@ This is an attempt at setting up a site using GitHub Pages and Jekyll.
 
 {% for post in site.posts %}
 
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: '%B %d, %Y' }}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date_to_string }}
 
 {% endfor %}
 
