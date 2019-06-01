@@ -1,4 +1,4 @@
-# Personal Page for Islay Malter
+# Islay Malter's Blog
 
 This is an attempt at setting up a site using GitHub Pages and Jekyll.
 
