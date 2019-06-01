@@ -1,1 +1,9 @@
 theme: jekyll-theme-dinky
+
+title: AB's Personal Blog
+author: AB
+email: github@agupta.me
+description: >
+  Personal banter on security, etc.
+
+github_username: islay-malter
