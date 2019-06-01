@@ -13,4 +13,5 @@ _hourglass spins fervently_
 - ~~install Ruby + bundler + github-pages + Jekyll + zlib + ...~~
 - ~~run Jekyll locally~~
 - ~~modify config file for custom attributes~~
-- create first blog post
+- ~~create first blog post~~
+- create home page with all blogs linked
