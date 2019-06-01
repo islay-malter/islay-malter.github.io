@@ -22,7 +22,8 @@ This is an attempt at setting up a site using GitHub Pages and Jekyll.
 
 - custom 404 page
 - favicon
-- custom domain
-- `_includes` folder for layouts
-  - Google Analytics
-  - DISQUS commenting
+- custom domain + HTTPS
+- `_includes` folder for layouts e.g. _page_ and _posts_
+- Google Analytics
+- DISQUS commenting
+- find security issues
